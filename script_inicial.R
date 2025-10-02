@@ -23,3 +23,5 @@ print("This is the version from GitHub")
 
 print("test 17:40")
 
+print("Oi João, acho que está funcionando")
+
