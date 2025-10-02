@@ -21,3 +21,5 @@ print("oi João, fiz o pull hoje e não deu erro, disse que estava upto date. 20
 
 print("This is the version from GitHub")
 
+print("test 17:40")
+
